@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OrderYourCoffee</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="name">Name</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="order">ORDER COFFEE</string>
+    <string name="maximum_coffee_order_toast">You have reached your  maximum order</string>
+    <string name="minimum_coffee_order_toast">You have to order atleast 1</string>
+</resources>
